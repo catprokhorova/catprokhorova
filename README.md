@@ -6,36 +6,35 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catprokhorova&layout=compact&theme=algolia&hide_border=true" />
 </p>
 
-<p align="center">
-  
-**Backend & API**
-<br>
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?logo=fastapi)
-![Asyncio](https://img.shields.io/badge/Asyncio-3776AB?logo=python&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-FF6C37?logo=rest)
+### **Backend & Frameworks**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Asyncio](https://img.shields.io/badge/Asyncio-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=rest&logoColor=white)
 
-**Data & ML**
-<br>
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn)
-![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas)
-![NLP](https://img.shields.io/badge/NLP-00A67E?logo=ai)
-![Word2Vec](https://img.shields.io/badge/Word2Vec-FF6B6B?logo=ai)
+### **Databases & Search**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
-**Databases**
-<br>
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch)
+### **AI/ML & Data Science**
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-00A67E?style=for-the-badge&logo=ai&logoColor=white)
+![Word2Vec](https://img.shields.io/badge/Word2Vec-FF6B6B?style=for-the-badge&logo=ai&logoColor=white)
+![Fuzzy Search](https://img.shields.io/badge/Fuzzy%20Search-9B59B6?style=for-the-badge&logo=search&logoColor=white)
 
-**DevOps**
-<br>
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git)
-
-</p>
+### **DevOps & Infrastructure**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ---
 
