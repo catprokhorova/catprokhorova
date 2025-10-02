@@ -1,8 +1,10 @@
 # 🚀 Екатерина Прохорова 
 **Backend Developer • Data Scientist**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=catprokhorova&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=catprokhorova&layout=compact&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=catprokhorova&show_icons=true&theme=dark&hide_border=true&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=catprokhorova&layout=compact&theme=dark&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=catprokhorova&theme=dark&hide_border=true)
 
 ---
 
