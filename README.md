@@ -6,22 +6,36 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catprokhorova&layout=compact&theme=algolia&hide_border=true" />
 </p>
 
-### **Backend Development**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<p align="center">
+  
+**Backend & API**
+<br>
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?logo=fastapi)
+![Asyncio](https://img.shields.io/badge/Asyncio-3776AB?logo=python&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-FF6C37?logo=rest)
 
-### **AI/ML**
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+**Data & ML**
+<br>
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn)
+![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas)
+![NLP](https://img.shields.io/badge/NLP-00A67E?logo=ai)
+![Word2Vec](https://img.shields.io/badge/Word2Vec-FF6B6B?logo=ai)
 
-### **Tools & DevOps**
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+**Databases**
+<br>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch)
+
+**DevOps**
+<br>
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git)
+
+</p>
 
 ---
 
