@@ -1,5 +1,10 @@
 # 🚀 Екатерина Прохорова 
-**Backend Developer • AI/LLM Engineer • Data Scientist**
+**Backend Developer • Data Scientist**
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=algolia&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&layout=compact&theme=algolia&hide_border=true" />
+</p>
 
 ---
 
