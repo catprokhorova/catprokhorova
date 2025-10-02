@@ -1,10 +1,10 @@
 # 🚀 Екатерина Прохорова 
 **Backend Developer • Data Scientist**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=catprokhorova&show_icons=true&theme=dark&hide_border=true&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=catprokhorova&layout=compact&theme=dark&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=catprokhorova&theme=dark&hide_border=true)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=catprokhorova&show_icons=true&theme=algolia&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catprokhorova&layout=compact&theme=algolia&hide_border=true" />
+</p>
 
 ---
 
@@ -47,8 +47,19 @@
 
 ## 🛠 Технологический стек
 
-### **Backend & DevOps**
-```python
-Python • FastAPI • SQLAlchemy • Celery • PostgreSQL • MongoDB • Redis
-Docker • Kubernetes • GitLab CI/CD • Terraform • Linux • Bash • PyTorch • TensorFlow • scikit-learn • Hugging Face • MLflow
-LLM • RAG • Prompt Engineering • Weaviate • Elasticsearch • OpenSearch
+### **Backend Development**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### **AI/ML**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+
+### **Tools & DevOps**
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
