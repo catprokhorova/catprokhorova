@@ -1,5 +1,4 @@
-# 🚀 Екатерина Прохорова 
-**Backend Developer • Data Scientist**
+# **Backend Developer • Data Scientist**
 
 <p align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=catprokhorova&show_icons=true&theme=algolia&hide_border=true" />
