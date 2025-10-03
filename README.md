@@ -23,6 +23,7 @@
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![NLP](https://img.shields.io/badge/NLP-00A67E?style=for-the-badge&logo=ai&logoColor=white)
 ![Word2Vec](https://img.shields.io/badge/Word2Vec-FF6B6B?style=for-the-badge&logo=ai&logoColor=white)
 ![Fuzzy Search](https://img.shields.io/badge/Fuzzy%20Search-9B59B6?style=for-the-badge&logo=search&logoColor=white)
