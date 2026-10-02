@@ -12,37 +12,35 @@ I am an **AI & Backend Engineer** with 4+ years of professional experience desig
 
 <table>
   <tr>
-    <td align="center" width="25%"><strong>AI & LLM</strong></td>
-    <td align="center" width="25%"><strong>Backend</strong></td>
-    <td align="center" width="25%"><strong>Databases & Search</strong></td>
-    <td align="center" width="25%"><strong>DevOps & Infra</strong></td>
+    <td valign="top" width="50%">
+      <strong>🧠 AI / LLM & Ops</strong><br/><br/>
+      <img src="https://shields.io" />
+      <img src="https://shields.io" />
+      <img src="https://shields.io⚡-blueviolet?style=for-the-badge" />
+      <img src="https://shields.io" />
+      <img src="https://shields.io" />
+    </td>
+    <td valign="top" width="50%">
+      <strong>⚡ Backend & Core</strong><br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://shields.io" />
+      <img src="https://shields.io" />
+      <img src="https://shields.io" />
+    </td>
   </tr>
   <tr>
-    <td valign="top">
-      • LangGraph / LangChain<br>
-      • Hugging Face<br>
-      • vLLM Inference<br>
-      • Langfuse / Arize Phoenix<br>
-      • Fine-tuning (MNRL)
+    <td valign="top" width="50%">
+      <strong>🔍 Databases & Search</strong><br/><br/>
+      <img src="https://shields.io" />
+      <img src="https://shields.io" />
+      <img src="https://shields.io" />
     </td>
-    <td valign="top">
-      • Python (5+ years)<br>
-      • FastAPI / AsyncIO<br>
-      • Pydantic<br>
-      • REST APIs
-    </td>
-    <td valign="top">
-      • OpenSearch<br>
-      • PostgreSQL<br>
-      • Redis<br>
-      • Vector DBs
-    </td>
-    <td valign="top">
-      • Docker<br>
-      • GitLab CI/CD<br>
-      • AWS (Bedrock, S3, EC2)<br>
-      • Yandex Cloud<br>
-      • Prometheus & Grafana
+    <td valign="top" width="50%">
+      <strong>🐳 Infrastructure & Cloud</strong><br/><br/>
+      <img src="https://shields.io" />
+      <img src="https://shields.io" />
+      <img src="https://shields.io" />
+      <img src="https://shields.io" />
     </td>
   </tr>
 </table>
@@ -52,34 +50,25 @@ I am an **AI & Backend Engineer** with 4+ years of professional experience desig
 ## 💼 Professional Experience
 
 ### **AI Engineer** | Huntee *(AI-Powered Job Matching Platform)*
-*May 2026 – Present*
-- Deployed a **bilateral RAG matching architecture** (vacancy ↔ resume) using LangChain and LangGraph to handle non-linear business routes.
-- Initiated and evaluated **Model Context Protocol (MCP)** to standardize LLM communication with internal microservices.
-- Deployed **Arize Phoenix** to monitor live pipelines, tracking structured parsing accuracy and tool-calling drift.
+- Designed a single JSON schema as a shared data contract and state representation across downstream microservices.
+- Deployed a **bilateral RAG matching architecture** (vacancy ↔ resume) using LangChain and LangGraph for non-linear query routing.
+- Evaluated and initiated **Model Context Protocol (MCP)** adoption to standardize LLM-to-tool microservice interfaces.
+- Integrated **Arize Phoenix** to monitor production pipelines, tracking output quality and tool-calling drift.
 
 ### **Lecturer** | Otus
-*March 2026 – Present*
-- Teaching an advanced course on **"LLM Driven Development"**, preparing professionals to deploy production-grade LLM applications.
-- **Key Lecture Topics Covered:**
-  - Foundations of NLP & Tokenization Algorithms
-  - Encoder Architectures & Text Embeddings
-  - Decoder Architectures & Attention Mechanism
-  - Hugging Face Ecosystem & Integration
-  - Conversational System Architectures in LangChain
-  - LLM Observability & Trajectory Tracing (Langfuse)
-  - High-Performance Inference and Serving with vLLM
+- Teach an advanced **"LLM Driven Development"** course covering production-grade AI systems.
+- **Lecture topics:** NLP Foundations & Tokenization, Encoder/Decoder Architectures, Attention Mechanism, Hugging Face, Conversational Systems (LangChain), LLM Observability (Langfuse), and High-Performance Serving (vLLM).
 
 ### **ML Engineer (Backend Heavy)** | InTech LLC *(Document Management System)*
-*July 2025 – March 2026*
-- **Cut search latency by 97.5%** (from ~80s to ~2s) by completely rewriting the OpenSearch pipeline and resource allocation.
-- Built a robust hybrid search engine (full-text + embedding + filters) with customized weighted ranking.
-- Integrated Shingling + MinHash similarity microservice for near-duplicate detection at scale.
+- **Cut search latency by 97.5% (from ~80s to ~2s)** under heavy load by rebuilding the OpenSearch indexing and query pipeline.
+- Built a hybrid search engine (full-text + embedding + date filters) with customized weighted ranking.
+- Developed a Shingling + MinHash similarity service to detect partial duplicates at scale.
 
 ### **ML Engineer** | Technologies of Trust (ex PwC Russia) *(Contract Analyzer RAG)*
-*July 2023 – July 2025*
-- Owned an end-to-end stateful RAG pipeline for risk validation, achieving an **85% agreement rate** with expert human annotations.
-- **Increased retrieval accuracy by 33%** (Recall@K from 0.60 to 0.80) via contrastive learning fine-tuning of multilingual embeddings.
-- **Reduced processing time by 90%** (from 5 min to 30 sec) by implementing model serving via vLLM and asynchronous batch processing.
+- Owned an end-to-end stateful RAG pipeline for risk assessment, generating a coherent 32-point checklist output.
+- Achieved an **85% agreement rate with expert human annotations** by engineering strict guardrails and validation.
+- **Increased retrieval accuracy by 33%** (Recall@K from 0.60 to 0.80) by fine-tuning a multilingual embedding model (MNRL).
+- **Cut processing time by 90%** (from ~5 min to ~30 sec) via model serving optimization using vLLM and AsyncIO.
 
 ---
 
