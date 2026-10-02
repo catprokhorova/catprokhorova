@@ -85,8 +85,14 @@ I am an **AI & Backend Engineer** with 4+ years of professional experience desig
 
 ## 📬 Connect with Me
 
-<p align="left">
-  <a href="mailto:cat.prokhorova@gmail.com"><img src="https://shields.io" height="28px" /></a>
-  <a href="https://t.me"><img src="https://shields.io" height="28px" /></a>
-  <a href="https://linkedin.com"><img src="https://shields.io" height="28px" /></a>
+<p align="center">
+  <a href="mailto:cat.prokhorova@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://t.me/prokhorova92">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="https://linkedin.com/in/catprokhorova">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
