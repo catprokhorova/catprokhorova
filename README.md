@@ -1,83 +1,104 @@
-# **AI • NLP • ML Engineer**
+# Hi there, I'm Ekaterina! 👋 
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=catprokhorova&show_icons=true&theme=algolia&hide_border=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catprokhorova&layout=compact&theme=algolia&hide_border=true" />
+  <img src="https://demolab.com" alt="Typing SVG" />
 </p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Asyncio](https://img.shields.io/badge/Asyncio-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=rest&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![NLP](https://img.shields.io/badge/NLP-00A67E?style=for-the-badge&logo=ai&logoColor=white)
-![Word2Vec](https://img.shields.io/badge/Word2Vec-FF6B6B?style=for-the-badge&logo=ai&logoColor=white)
-![Fuzzy Search](https://img.shields.io/badge/Fuzzy%20Search-9B59B6?style=for-the-badge&logo=search&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+<p align="center">
+  <img height="160em" src="https://vercel.app" />
+  <img height="160em" src="https://vercel.app" />
+</p>
+
+<p align="center">
+  <img src="https://vercel.app" alt="github trophies" />
+</p>
 
 ---
 
-## 👋 Обо мне
+## 🤖 About Me
 
-Специалист на стыке бэкенд-разработки и машинного обучения с 2023 года. Участвую в полном цикле разработки и внедрения AI-сервисов — от идеи до продакшена.
+I am an **ML/AI & Heavy Backend Engineer** with 4+ years of professional experience designing, building, and owning production-grade AI services, end-to-end RAG pipelines, and conversational multi-agent architectures under real-world compute and latency constraints. 
 
-**Ключевые направления:**
-- 🤖 Разработка и внедрение LLM-based сервисов (RAG, чат-боты, анализ текстов)
-- ⚡ Создание высокопроизводительных бэкенд-систем на Python/FastAPI
-- 🐳 Контейнеризация, оркестрация и развертывание ML-сервисов
-- 🔍 Построение интеллектуальных систем поиска и рекомендаций
+- 🧠 **Core Expertise**: Shifting linear LLM workflows to complex Directed Acyclic Graphs (DAGs), multi-agent orchestration, and advanced prompt engineering.
+- ⚡ **Backend Mastery**: 5+ years of robust Python engineering, writing clean, asynchronous, and modular code (FastAPI, AsyncIO).
+- 📈 **LLMOps & Evaluation**: Designing strict evaluation frameworks to track retrieval quality, tool-calling behavior, and context drift.
 
 ---
 
-## 💼 Опыт работы
+## 🛠️ Tech Stack & Tools
 
-| Должность | Компания | Период | Ключевые технологии |
-|-----------|----------|---------|---------------------|
-| **Middle Backend Developer** | ООО ИнТех | Июль 2025 - н.в. | `Python` `FastAPI` `PostgreSQL` `Docker` `OpenSearch` |
-| **Инженер ML/Data Science** | Технологии Доверия | 2023 - 2025 | `PyTorch` `LLM` `RAG` `Kubernetes` `MLflow` `Weaviate` |
-| **Эксперт** | Нетология | 2022 - н.в. | `Python` `Data Science` |
+<p align="left">
+  <!-- AI / LLM / Frameworks -->
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io⚡-blueviolet?style=for-the-badge" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <br/>
+  <!-- Backend / Languages -->
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <br/>
+  <!-- Databases / Search -->
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <br/>
+  <!-- DevOps / Tools -->
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+</p>
 
 ---
 
-## 🎯 Ключевые проекты
+## 💼 Professional Experience
 
-### Анализатор договоров | Технологии Доверия
-- AI-система автоматической проверки договоров по чек-листам
-- Точность автоматического заполнения: >85%
-- [Посмотреть продукт](https://store.tedo.ru/lovets-slov)
+### **AI Engineer** | Huntee *(AI-Powered Job Matching Platform)*
+*May 2026 – Present*
+- Deployed a **bilateral RAG matching architecture** (vacancy ↔ resume) using LangChain and LangGraph to handle non-linear business routes.
+- Initiated and evaluated **Model Context Protocol (MCP)** to standardize LLM communication with internal microservices.
+- Deployed **Arize Phoenix** to monitor live pipelines, tracking structured parsing accuracy and tool-calling drift.
 
-### Стример | Технологии Доверия  
-- Классификация и суммаризация сложных налоговых текстов
-- Преобразование налогового языка в простые формулировки
-- [Посмотреть продукт](https://store.tedo.ru/strimer)
+### **Lecturer** | Otus
+*March 2026 – Present*
+- Teaching an advanced course on **"LLM Driven Development"**, preparing professionals to deploy production-grade LLM applications.
+- **Key Lecture Topics Covered:**
+  - Foundations of NLP & Tokenization Algorithms
+  - Encoder Architectures & Text Embeddings
+  - Decoder Architectures & Attention Mechanism
+  - Hugging Face Ecosystem & Ecosystem Integration
+  - Conversational System Architectures in LangChain
+  - LLM Observability & Trajectory Tracing (Langfuse)
+  - High-Performance Inference and Serving with vLLM
 
-### Образовательные проекты | Нетология
-- Разработка тренажёров для автоматизации проверки домашних заданий
-- Проверка работ и менторство на курсе "Python для анализа данных"
+### **ML Engineer (Backend Heavy)** | InTech LLC *(Document Management & Search Systems)*
+*July 2025 – March 2026*
+- **Cut search latency by 97.5%** (from ~80s to ~2s) by completely rewriting the OpenSearch pipeline and resource allocation.
+- Built a robust hybrid search engine (full-text + embedding + filters) with customized weighted ranking.
+- Integrated Shingling + MinHash similarity microservice for near-duplicate detection at scale.
+
+### **ML Engineer** | Technologies of Trust (ex PwC Russia) *(Contract Analyzer RAG)*
+*July 2023 – July 2025*
+- Owned an end-to-end stateful RAG pipeline for risk validation, achieving an **85% agreement rate** with expert human annotations.
+- **Increased retrieval accuracy by 33%** (Recall@K from 0.60 to 0.80) via contrastive learning fine-tuning of multilingual embeddings.
+- **Reduced processing time by 90%** (from 5 min to 30 sec) by implementing model serving via vLLM and asynchronous batch processing.
 
 ---
+
+## 📬 Connect with Me
 
 <p align="center">
   <a href="mailto:cat.prokhorova@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://shields.io" alt="Email"/>
   </a>
-  <a href="https://t.me/prokhorova92">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  <a href="https://t.me">
+    <img src="https://shields.io" alt="Telegram"/>
   </a>
-  <a href="https://linkedin.com/in/catprokhorova">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://linkedin.com">
+    <img src="https://shields.io" alt="LinkedIn"/>
   </a>
 </p>
-
