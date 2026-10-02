@@ -1,25 +1,8 @@
-# Hi there, I'm Ekaterina! 👋 
+### AI • NLP • ML & Heavy Backend Engineer
 
-<p align="center">
-  <img src="https://demolab.com" alt="Typing SVG" />
-</p>
+I am an **AI & Backend Engineer** with 4+ years of professional experience designing, building, and owning production-grade AI services, end-to-end RAG pipelines, and conversational multi-agent architectures under real-world compute and latency constraints.
 
-<p align="center">
-  <img height="160em" src="https://vercel.app" />
-  <img height="160em" src="https://vercel.app" />
-</p>
-
-<p align="center">
-  <img src="https://vercel.app" alt="github trophies" />
-</p>
-
----
-
-## 🤖 About Me
-
-I am an **ML/AI & Heavy Backend Engineer** with 4+ years of professional experience designing, building, and owning production-grade AI services, end-to-end RAG pipelines, and conversational multi-agent architectures under real-world compute and latency constraints. 
-
-- 🧠 **Core Expertise**: Shifting linear LLM workflows to complex Directed Acyclic Graphs (DAGs), multi-agent orchestration, and advanced prompt engineering.
+- 🧠 **Core Expertise**: Shifting linear LLM workflows to complex Directed Acyclic Graphs (DAGs), multi-agent orchestration (LangGraph), and advanced prompt engineering.
 - ⚡ **Backend Mastery**: 5+ years of robust Python engineering, writing clean, asynchronous, and modular code (FastAPI, AsyncIO).
 - 📈 **LLMOps & Evaluation**: Designing strict evaluation frameworks to track retrieval quality, tool-calling behavior, and context drift.
 
@@ -27,31 +10,42 @@ I am an **ML/AI & Heavy Backend Engineer** with 4+ years of professional experie
 
 ## 🛠️ Tech Stack & Tools
 
-<p align="left">
-  <!-- AI / LLM / Frameworks -->
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io⚡-blueviolet?style=for-the-badge" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <br/>
-  <!-- Backend / Languages -->
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <br/>
-  <!-- Databases / Search -->
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <br/>
-  <!-- DevOps / Tools -->
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="25%"><strong>AI & LLM</strong></td>
+    <td align="center" width="25%"><strong>Backend</strong></td>
+    <td align="center" width="25%"><strong>Databases & Search</strong></td>
+    <td align="center" width="25%"><strong>DevOps & Infra</strong></td>
+  </tr>
+  <tr>
+    <td valign="top">
+      • LangGraph / LangChain<br>
+      • Hugging Face<br>
+      • vLLM Inference<br>
+      • Langfuse / Arize Phoenix<br>
+      • Fine-tuning (MNRL)
+    </td>
+    <td valign="top">
+      • Python (5+ years)<br>
+      • FastAPI / AsyncIO<br>
+      • Pydantic<br>
+      • REST APIs
+    </td>
+    <td valign="top">
+      • OpenSearch<br>
+      • PostgreSQL<br>
+      • Redis<br>
+      • Vector DBs
+    </td>
+    <td valign="top">
+      • Docker<br>
+      • GitLab CI/CD<br>
+      • AWS (Bedrock, S3, EC2)<br>
+      • Yandex Cloud<br>
+      • Prometheus & Grafana
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -70,12 +64,12 @@ I am an **ML/AI & Heavy Backend Engineer** with 4+ years of professional experie
   - Foundations of NLP & Tokenization Algorithms
   - Encoder Architectures & Text Embeddings
   - Decoder Architectures & Attention Mechanism
-  - Hugging Face Ecosystem & Ecosystem Integration
+  - Hugging Face Ecosystem & Integration
   - Conversational System Architectures in LangChain
   - LLM Observability & Trajectory Tracing (Langfuse)
   - High-Performance Inference and Serving with vLLM
 
-### **ML Engineer (Backend Heavy)** | InTech LLC *(Document Management & Search Systems)*
+### **ML Engineer (Backend Heavy)** | InTech LLC *(Document Management System)*
 *July 2025 – March 2026*
 - **Cut search latency by 97.5%** (from ~80s to ~2s) by completely rewriting the OpenSearch pipeline and resource allocation.
 - Built a robust hybrid search engine (full-text + embedding + filters) with customized weighted ranking.
@@ -91,14 +85,8 @@ I am an **ML/AI & Heavy Backend Engineer** with 4+ years of professional experie
 
 ## 📬 Connect with Me
 
-<p align="center">
-  <a href="mailto:cat.prokhorova@gmail.com">
-    <img src="https://shields.io" alt="Email"/>
-  </a>
-  <a href="https://t.me">
-    <img src="https://shields.io" alt="Telegram"/>
-  </a>
-  <a href="https://linkedin.com">
-    <img src="https://shields.io" alt="LinkedIn"/>
-  </a>
+<p align="left">
+  <a href="mailto:cat.prokhorova@gmail.com"><img src="https://shields.io" height="28px" /></a>
+  <a href="https://t.me"><img src="https://shields.io" height="28px" /></a>
+  <a href="https://linkedin.com"><img src="https://shields.io" height="28px" /></a>
 </p>
