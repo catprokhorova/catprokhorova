@@ -6,6 +6,8 @@ I am an **AI & Backend Engineer** with 4+ years of professional experience desig
 - ⚡ **Backend Mastery**: 5+ years of robust Python engineering, writing clean, asynchronous, and modular code (FastAPI, AsyncIO).
 - 📈 **LLMOps & Evaluation**: Designing strict evaluation frameworks to track retrieval quality, tool-calling behavior, and context drift.
 
+**[See more](https://ai-consulting.catprokhorova.dev/)**
+
 ---
 
 ## 🛠️ Tech Stack & Tools
@@ -57,10 +59,4 @@ I am an **AI & Backend Engineer** with 4+ years of professional experience desig
 - **Increased retrieval accuracy by 33%** (Recall@K from 0.60 to 0.80) by fine-tuning a multilingual embedding model (MNRL).
 - **Cut processing time by 90%** (from ~5 min to ~30 sec) via model serving optimization using vLLM and AsyncIO.
 
----
 
-## 📬 Connect with Me
-
-<p align="center">
-  <a href="https://ai-consulting.catprokhorova.dev/">
-  </a>
